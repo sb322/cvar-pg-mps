@@ -52,3 +52,27 @@ The toy example demonstrates how an agent reduces risky behavior to satisfy a CV
   ```bash
   python3 -m pip install --upgrade pip
   pip install -r requirements.txt
+  
+
+---
+
+## 📖 References
+
+1. Rockafellar, R. T., & Uryasev, S. (2000).  
+   *Optimization of Conditional Value-at-Risk.* Journal of Risk.  
+   [https://doi.org/10.21314/JOR.2000.038](https://doi.org/10.21314/JOR.2000.038)
+
+2. Ben-Tal, A., & Teboulle, M. (2007).  
+   *An Old-New Concept of Convex Risk Measures: The Optimized Certainty Equivalent.*  
+   Mathematical Finance, 17(3), 449–476.  
+   [https://doi.org/10.1111/j.1467-9965.2007.00296.x](https://doi.org/10.1111/j.1467-9965.2007.00296.x)
+
+3. Chow, Y., Tamar, A., Mannor, S., & Pavone, M. (2015).  
+   *Risk-Sensitive and Robust Decision-Making: a CVaR Optimization Approach.*  
+   NeurIPS 2015.  
+   [PDF](https://proceedings.neurips.cc/paper/2015/file/9a49a25d7cdc7b71924a70c0c7d2b0f9-Paper.pdf)
+
+4. Chow, Y., & Ghavamzadeh, M. (2014).  
+   *Algorithms for CVaR Optimization in MDPs.*  
+   NeurIPS 2014.  
+   [PDF](https://proceedings.neurips.cc/paper/2014/file/9dcb88e0137649590b755372b040afad-Paper.pdf)
